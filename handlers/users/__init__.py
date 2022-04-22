@@ -1,5 +1,5 @@
 from .help import dp
-# from .start import dp
+from .start import dp
 # from . import echo
 from .check import dp
 from .newpost import dp

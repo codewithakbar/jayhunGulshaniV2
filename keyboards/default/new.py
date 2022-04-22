@@ -3,7 +3,7 @@ from aiogram.types import ReplyKeyboardMarkup, KeyboardButton
 menu = ReplyKeyboardMarkup(
     keyboard=[
         [
-            KeyboardButton(text="📑 E'lon berish"),
+            KeyboardButton(text="/start"),
         ],
     ],
     resize_keyboard=True,
